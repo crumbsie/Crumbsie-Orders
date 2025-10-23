@@ -37,12 +37,8 @@ jsonschema==4.25.1
 jsonschema-specifications==2025.9.1
 keyboard==0.13.5
 
-# Kivy and deps
+# Kivy for Linux
 Kivy==2.3.1
-kivy-deps.sdl2
-kivy-deps.glew
-kivy-deps.gstreamer
-kivy-deps.angle
 Kivy-Garden==0.1.5
 
 kiwisolver==1.4.8
